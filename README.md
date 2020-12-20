@@ -16,7 +16,7 @@ Dados recolhidos de: [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_p
 #### Correr, localmente, após clonar o repositório:
 
 ```
-<browser> index.html
+<browser> src/index.html
 ```
 
 
